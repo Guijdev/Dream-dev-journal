@@ -1,5 +1,5 @@
 .bg {
-    background-image: url("/HTML/nftsite/components/images/Fundo-site.png");
+    background-image: url("../../components/images/Fundo-site.png");
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
